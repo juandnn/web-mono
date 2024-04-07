@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('/banana.jpg');
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+.contenido {
+    padding: 20px;
+}
+
+h1 {
+    color:#ffb83a;
+    margin-top: 0;
+    padding-top: 20px;
+    font-family: 'Papyrus', sans-serif;
+    font-style: bold;
+    font-size: 5em;
+}
+
+.texto-mono {
+
+
+
+    font-family: 'Papyrus', sans-serif;
+    font-style: bold;
+
+}
+
+h2 {
+    color:#8B4513;
+    margin-top: 0;
+
+    font-family: 'Papyrus', sans-serif;
+    font-style: bold;
+    font-size: 2em;
+
+}
+
+.fondo-amarillo{
+    
+    border-radius: 20px;
+    background: radial-gradient(#c09e63 100%, #ffb83a 90%);
+    padding: 20px;
+    
+    font-family: 'Papyrus', sans-serif;
+}
+
+.fondo-amarillo2{
+    border-radius: 10px;
+    border: 10px dotted #8B4513;
+    background: radial-gradient(#ffb83a 100%, #ffb83a 90%);
+    padding: 20px;
+    
+    font-family: 'Papyrus', sans-serif;
+}
+
+.borde-amplio {
+    border: 10px hidden #8B4513;
+    padding: 20px;
+}
+
+.fila-con-fondo {
+    background-image: linear-gradient(180deg, #8B4513, #ffb83a); 
+    padding: 20px; 
+}
+
+.imagen-curva {
+    border-radius: 20px;
+}
+
+.imagen-curva2 {
+    border-radius: 20px;
+    width: 60%;
+}
