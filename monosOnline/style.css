@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('/banana.jpg');
+    background-image: url('/monosOnline/banana.jpg');
     background-repeat: repeat;
     background-attachment: fixed;
 }
